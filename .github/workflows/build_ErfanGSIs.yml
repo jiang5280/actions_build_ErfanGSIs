@@ -15,8 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201230-SEKSA.darwin-user/202102031826/8.1.2.2-202102031429-user-drw-3d5ce380f5.zip
-
-  ROM_NAME: Smartisan
+  ROM_NAME: SmartisanOS
   TZ: Asia/Shanghai
 
 jobs:
