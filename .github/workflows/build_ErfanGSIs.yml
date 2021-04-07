@@ -14,8 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17/8.2.0.0/cn/20210125181845/97b4c11e/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201230-SEKSA.darwin-user/202102031826/8.1.2.2-202102031429-user-drw-3d5ce380f5.zip
+
+  ROM_NAME: Smartisan
   TZ: Asia/Shanghai
 
 jobs:
