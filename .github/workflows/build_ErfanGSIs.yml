@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.2.26/miui_PHOENIX_21.2.26_7d2dbdb333_11.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.1.2.5/cn/20200817160841/8ed9765a/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
