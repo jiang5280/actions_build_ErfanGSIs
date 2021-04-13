@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201230-SEKSA.darwin-user/202102031826/8.1.2.2-202102031429-user-drw-3d5ce380f5.zip
-  ROM_NAME: SmartisanOS
+  ROM_URL: http://bigota.d.miui.com/V12.0.5.0.QGHCNXM/miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
